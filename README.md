@@ -1,3 +1,4 @@
+Authors: Osama Altarawneh, Muhammed Jaseem P A, Kishan Dhakal, Bassam Nasir.
 # Central Florida Sinkhole Susceptibility Mapping
 
 Machine learning pipeline for predicting sinkhole susceptibility across six Central Florida counties. Seven classifiers are trained and evaluated using 13 hydrogeological and topographic conditioning factors. Best model: **Random Forest** with AUC-ROC 0.891 and accuracy 80.56%.
